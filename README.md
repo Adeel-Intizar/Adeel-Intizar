@@ -26,27 +26,28 @@ Welcome to my GitHub profile! I'm a dedicated Machine Learning Engineer with ove
 
 ## 🚀 Featured Projects
 
-### 🚀 [Xtreme-Vision Library](https://github.com/Adeel-Intizar/Xtreme-Vision)
+### [Xtreme-Vision Library](https://github.com/Adeel-Intizar/Xtreme-Vision)
 A high-level Python library designed to simplify computer vision tasks. Whether you’re a student, developer, or researcher, this toolkit empowers you to implement state-of-the-art object detection, segmentation, and pose estimation with minimal code.  
 *Technologies: Python, OpenCV, TensorFlow/PyTorch*
 
 ---
 
-### 🎨 [Exactron](https://github.com/Adeel-Intizar/Exactron)
+### [Exactron](https://github.com/Adeel-Intizar/Exactron)
 An advanced Python API that consolidates multiple AI-powered tasks. From background removal and image colorization to converting photos to sketches or portraits, Exactron demonstrates a versatile application of deep learning for image processing challenges.  
 *Technologies: Python, Deep Learning, TensorFlow/Keras*
 
 ---
 
-### 🔥 [CIFAR-10 State-of-the-art Model](https://github.com/Adeel-Intizar/CIFAR-10-State-of-the-art-Model)
+### [CIFAR-10 State-of-the-art Model](https://github.com/Adeel-Intizar/CIFAR-10-State-of-the-art-Model)
 A cutting-edge TensorFlow/Keras implementation that experiments with novel architectures on the CIFAR-10 dataset. This project showcases my ability to innovate and optimize model performance for image classification tasks.  
 *Technologies: TensorFlow, Keras, Computer Vision*
 
 ---
 
-### 🔍 [Keras-AutoEncoders](https://github.com/Adeel-Intizar/Keras-AutoEncoders)
+### [Keras-AutoEncoders](https://github.com/Adeel-Intizar/Keras-AutoEncoders)
 An exploration into unsupervised learning using autoencoders, this repository contains implementations of both Convolutional AutoEncoders and Variational AutoEncoders. It’s a hands-on resource for understanding how to compress and reconstruct data effectively.  
 *Technologies: TensorFlow, Keras, Deep Learning*
+
 ---
 
 ## 📈 Professional Experience
@@ -86,7 +87,6 @@ I'm always excited to discuss innovative ideas and collaborate on groundbreaking
 _“Striving for excellence, one algorithm at a time.”_
 
 💡 _Always exploring the latest in AI and open to collaborations!_ 🚀
-
 
 <!--
 **Adeel-Intizar/Adeel-Intizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
