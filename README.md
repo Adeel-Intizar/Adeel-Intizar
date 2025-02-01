@@ -26,18 +26,27 @@ Welcome to my GitHub profile! I'm a dedicated Machine Learning Engineer with ove
 
 ## 🚀 Featured Projects
 
-### [Xtreme-Vision Library](https://github.com/Adeel-Intizar/Xtreme-Vision)
-A high-level Python library to simplify computer vision tasks—object detection, segmentation, and pose estimation—empowering developers with minimal code.
+### 🚀 [Xtreme-Vision Library](https://github.com/Adeel-Intizar/Xtreme-Vision)
+A high-level Python library designed to simplify computer vision tasks. Whether you’re a student, developer, or researcher, this toolkit empowers you to implement state-of-the-art object detection, segmentation, and pose estimation with minimal code.  
+*Technologies: Python, OpenCV, TensorFlow/PyTorch*
 
-### [Exactron](https://github.com/Adeel-Intizar/Exactron)
-A versatile Python API for multiple AI-powered image processing tasks including background removal, image colorization, and photo-to-sketch conversions.
+---
 
-### [CIFAR-10 State-of-the-art Model](https://github.com/Adeel-Intizar/CIFAR-10-State-of-the-art-Model)
-A cutting-edge TensorFlow/Keras model experimenting with novel architectures to achieve state-of-the-art performance on the CIFAR-10 dataset.
+### 🎨 [Exactron](https://github.com/Adeel-Intizar/Exactron)
+An advanced Python API that consolidates multiple AI-powered tasks. From background removal and image colorization to converting photos to sketches or portraits, Exactron demonstrates a versatile application of deep learning for image processing challenges.  
+*Technologies: Python, Deep Learning, TensorFlow/Keras*
 
-### [Keras-AutoEncoders](https://github.com/Adeel-Intizar/Keras-AutoEncoders)
-Implementations of Convolutional and Variational AutoEncoders in TensorFlow/Keras to explore unsupervised learning for data compression and reconstruction.
+---
 
+### 🔥 [CIFAR-10 State-of-the-art Model](https://github.com/Adeel-Intizar/CIFAR-10-State-of-the-art-Model)
+A cutting-edge TensorFlow/Keras implementation that experiments with novel architectures on the CIFAR-10 dataset. This project showcases my ability to innovate and optimize model performance for image classification tasks.  
+*Technologies: TensorFlow, Keras, Computer Vision*
+
+---
+
+### 🔍 [Keras-AutoEncoders](https://github.com/Adeel-Intizar/Keras-AutoEncoders)
+An exploration into unsupervised learning using autoencoders, this repository contains implementations of both Convolutional AutoEncoders and Variational AutoEncoders. It’s a hands-on resource for understanding how to compress and reconstruct data effectively.  
+*Technologies: TensorFlow, Keras, Deep Learning*
 ---
 
 ## 📈 Professional Experience
